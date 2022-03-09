@@ -1,0 +1,26 @@
+{
+
+    "RUST_BANNED_API_KEY": "",
+
+    "STEAM_API_KEY": "",
+
+    "DISCORD_BOT_TOKEN": "",
+
+    "BOT_PREFIX": "$",
+
+    "ROLE_REQUIRED": false,
+    "ROLE_ID_REQUIRED_TO_USE_COMMAND": "",
+
+    "SPECIFIED_EAC_CHECK_CHANNEL": {
+        "TLDR": "This channel will be used for EAC checks, all you will have to do is post the steam64ID and it will respond. You can still use the EAC command in other channels.",
+        "USE_EAC_CHECK_CHANNEL": false,
+        "EAC_CHECK_CHANNEL_ID": ""
+    },
+
+    "BATTLEMETRICS": {
+        "USE_BATTLEMETRICS_BAN_CHECK": false,
+        "BATTLEMETRICS_API_KEY": "",
+        "ROLE_ID_REQUIRED_TO_USE_BANS_COMMAND": ""
+    }
+
+}
